@@ -2,6 +2,11 @@
 
 [<img src="https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.1/bhadoo-cloud-logo.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.1/bhadoo-cloud-logo.svg" height="80" />](https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud)
 
+
+
+# Deploy To Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Servers to Own Server and Upload to Google Drive.
 
 Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](https://server.bhadoocloud.ga) and [Demo Site Status](https://site-status.hashapp.ga/?q=server.bhadoocloud.ga)
